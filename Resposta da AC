@@ -1,0 +1,40 @@
+1) Para o desenvolvimento do software para a academia de ginástica do bairro, considerando que o código será desenvolvido no contexto de outra disciplina e apenas no final, uma abordagem de modelo de processo adequada pode ser o modelo em cascata. No modelo em cascata, o desenvolvimento ocorre em fases sequenciais, com cada fase dependendo da conclusão da fase anterior. Isso pode ser apropriado quando o desenvolvimento de código é uma atividade tardia, e outras atividades, como a definição de requisitos e o design, precisam ser concluídas antes do desenvolvimento real do software.
+
+Para o levantamento de requisitos do software para a academia de ginástica de bairro, várias técnicas podem ser utilizadas. Algumas técnicas comuns incluem:
+
+a. Entrevistas com os proprietários e funcionários da academia para entender suas necessidades e expectativas.
+
+b. Observação direta das operações da academia para identificar processos existentes e possíveis áreas de melhoria.
+
+c. Pesquisas com os membros da academia para coletar feedback sobre o que eles gostariam de ver no software.
+
+d. Análise de documentos existentes, como planilhas, registros de membros e outros registros relevantes.
+
+e. Realização de workshops ou reuniões com as partes interessadas para reunir informações e criar consenso sobre os requisitos.
+
+f. Prototipagem ou modelagem para visualizar e validar conceitos de design com os usuários.
+
+2 ) Aqui estão alguns requisitos iniciais para o software da academia de ginástica, apresentados como histórias de usuário com critérios de aceitação:
+
+História de Usuário 1: Gerenciamento de Membros
+Como um administrador da academia, eu quero ser capaz de adicionar, atualizar e excluir informações dos membros para manter registros precisos.
+Critérios de Aceitação:
+
+Deve ser possível adicionar novos membros com informações pessoais, como nome, endereço, telefone, e data de adesão.
+Deve ser possível atualizar informações de membros existentes.
+Deve ser possível excluir membros quando necessário.
+História de Usuário 2: Agendamento de Aulas
+Como um membro da academia, eu quero poder ver o cronograma de aulas disponíveis e me inscrever nas aulas que desejo frequentar.
+Critérios de Aceitação:
+
+Deve haver um calendário de aulas disponíveis.
+Os membros devem ser capazes de ver as aulas disponíveis e seus horários.
+Os membros devem ser capazes de se inscrever em aulas.
+O sistema deve impedir inscrições duplas nas mesmas aulas.
+História de Usuário 3: Pagamento de Mensalidades
+Como um membro da academia, eu quero poder pagar minhas mensalidades online para facilitar o processo de pagamento.
+Critérios de Aceitação:
+
+Os membros devem poder visualizar o status de pagamento de suas mensalidades.
+Deve ser possível fazer pagamentos online com cartão de crédito ou outro método eletrônico.
+O sistema deve enviar comprovantes de pagamento por e-mail.
